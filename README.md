@@ -1,4 +1,4 @@
-# C-console-program
+# C#-console-program
 a simple console program, a small learning step
 
 
